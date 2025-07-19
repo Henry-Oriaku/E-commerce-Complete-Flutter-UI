@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shop/constants.dart';
-import 'package:shop/models/category_model.dart';
-import 'package:shop/screens/search/views/components/search_form.dart';
+import 'package:cleanova/constants.dart';
+import 'package:cleanova/models/category_model.dart';
+import 'package:cleanova/screens/search/views/components/search_form.dart';
 
 import 'components/expansion_category.dart';
 

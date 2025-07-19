@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:shop/screens/auth/views/components/sign_up_form.dart';
-import 'package:shop/route/route_constants.dart';
+import 'package:cleanova/screens/auth/views/components/sign_up_form.dart';
+import 'package:cleanova/route/route_constants.dart';
 
 import '../../../constants.dart';
 

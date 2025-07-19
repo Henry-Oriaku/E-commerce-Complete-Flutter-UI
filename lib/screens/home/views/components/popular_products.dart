@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shop/components/product/product_card.dart';
-import 'package:shop/models/product_model.dart';
-import 'package:shop/route/screen_export.dart';
+import 'package:cleanova/components/product/product_card.dart';
+import 'package:cleanova/models/product_model.dart';
+import 'package:cleanova/route/screen_export.dart';
 
 import '../../../../constants.dart';
 
